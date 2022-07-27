@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Site Dos Cria ##
 
-You can use the [editor on GitHub](https://github.com/BrunoMarcos12/Cria-o-de-site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [site dos crias](https://github.com/BrunoMarcos12/Cria-o-de-site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
