@@ -1,12 +1,12 @@
-## Site Dos Cria ##
+## Site de Resenha ##
 
-You can use the [site dos crias](https://github.com/BrunoMarcos12/Cria-o-de-site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ Voce pode usar o [Site de resenha ](https://github.com/BrunoMarcos12/Cria-o-de-site/edit/gh-pages/index.md) para ter açesso a resenhas de filmes atuais ou antigos.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Resenha](https://github.com/BrunoMarcos12/Cria-o-de-site/edit/gh-pages/index.md) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### filme 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
