@@ -1,18 +1,12 @@
 ## Site de Resenha ##
 
- Voce pode usar o [Site de resenha ](https://github.com/BrunoMarcos12/Cria-o-de-site/edit/gh-pages/index.md) para ter açesso a resenhas de filmes atuais ou antigos.
+Atravez desse site[Resenha](https://github.com/BrunoMarcos12/Cria-o-de-site/edit/gh-pages/index.md)voçe verá a avaliação do filme Goosebumps:Monstros e Arrepios  .
 
-Whenever you commit to this repository, GitHub Pages will run [Resenha](https://github.com/BrunoMarcos12/Cria-o-de-site/edit/gh-pages/index.md) to rebuild the pages in your site, from the content in your Markdown files.
-
-### filme 
+### Filme Goosebumps Monstros e Arrepios 
 
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
+#  Filme: Goosebumps
+##  Genero:Terror comédia infantil aventura fantasia 
 ### Header 3
 
 - Bulleted
